@@ -172,7 +172,7 @@ Contributions are welcome! To contribute:
 For questions or feedback, please contact:
 
 - Maintainer: Nitish Shukla 
-- Email: yournitish121shuklal@example.com  
+- Email: nitish121shuklal@example.com  
 
 ---
 
